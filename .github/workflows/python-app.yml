@@ -22,7 +22,7 @@ jobs:
         python-version: 3.9
     - name: Install dependencies
       run: |
-        pip install random
+        pip install random2
         pip install socket
         pip install threading
         pip install time
