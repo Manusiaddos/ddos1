@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install random2
-        pip install socket
+        pip install sockets
         pip install threading
         pip install time
         pip install os
